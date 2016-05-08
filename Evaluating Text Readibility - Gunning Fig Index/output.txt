@@ -1,0 +1,59 @@
+Kem Andrew
+Contemporary Programming Languages
+Dr. Stringfellow
+Python - Evaluating the Readibility of Text
+11/16/2015
+
+data1
+Kem Andrew
+The number of lines:  13
+The number of sentences:  5
+The number of words:  113
+----------------------------------------
+Calculate Gunning Fog Index...
+# of sentences: 4
+# of words in each sentence: [25, 32, 18, 15]
+# of difficult words:  31
+percent difficult words:  34.44
+Gunning Fog Index:  18.0
+General public will have difficulty understanding text material.
+
+data2
+Kem Andrew
+The number of lines:  14
+The number of sentences:  9
+The number of words:  109
+----------------------------------------
+Calculate Gunning Fog Index...
+# of sentences: 8
+# of words in each sentence: [5, 15, 6, 10, 8, 16, 16, 4]
+# of difficult words:  6
+percent difficult words:  7.5
+Gunning Fog Index:  5.0
+General public will understand text material.
+
+data3
+Kem Andrew
+The number of lines:  3
+The number of sentences:  7
+The number of words:  136
+----------------------------------------
+Calculate Gunning Fog Index...
+# of sentences: 5
+# of words in each sentence: [22, 15, 16, 25, 18]
+# of difficult words:  25
+percent difficult words:  26.04
+Gunning Fog Index:  23.0
+General public will have difficulty understanding text material.
+
+data4
+Kem Andrew
+The number of lines:  1
+The number of sentences:  5
+The number of words:  96
+The file does not contain 100 words. 
+Traceback (most recent call last):
+  File "C:\Users\Kem\Desktop\PythonProg1.py", line 53, in <module>
+    sys.exit()
+SystemExit
+>>> 

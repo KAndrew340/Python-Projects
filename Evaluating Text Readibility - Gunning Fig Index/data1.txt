@@ -1,0 +1,13 @@
+Reverse architecting is a type of reverse engineering, which identifies 
+system components and their dependencies and generates abstractions of 
+them to make them more understandable.  This involves extracting artifacts 
+from the source code (or in our case, the defect data) and representing 
+them in a manageable form so the system's structural and functional 
+characteristics can be analyzed.  The purpose of the reverse architecting 
+activity drives what information is extracted, how it is abstracted, and 
+presented.  
+
+There are many ways to adapt this framework to a specific reverse 
+engineering architecting objective. Krikhaar derives an architectural 
+model for several complex systems by measuring import and use relations, 
+that is include statements and call statements, respectively.

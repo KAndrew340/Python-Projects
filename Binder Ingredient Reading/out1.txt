@@ -1,0 +1,57 @@
+
+Kem Andrew
+Contemporary Programming Languages
+12/02/2015
+Dr. Stringfellow
+
+DISPLAYING BINDER INFO : 
+2
+Binder name:  My Favorite Cheesecake
+
+Binder info:  ['8', '3', '100']
+Budget:  [100]
+Num recipes:  3
+['sugar', '4']
+['water', '0']
+['lemonjuice', '3']
+['creamcheese', '20']
+['vanilla', '5']
+['egg', '5']
+['cream', '10']
+['strawberry', '5']
+{'creamcheese': 20, 'strawberry': 5, 'vanilla': 5, 'sugar': 4, 'water': 0, 'lemonjuice': 3, 'egg': 5, 'cream': 10}
+Recipe names:  ['Strawberry Whipped Cream\n']
+Recipe names:  ['Strawberry Whipped Cream\n', 'Scrumptious Caramel Topping\n']
+Recipe names:  ['Strawberry Whipped Cream\n', 'Scrumptious Caramel Topping\n', 'Secret Cheesecake Base\n']
+Binder name:  Million Dollar Cakes
+
+Binder info:  ['3', '1', '999999']
+Budget:  [100, 999999]
+Num recipes:  1
+['costlyflour', '500']
+['gold', '4500']
+['diamond', '5000']
+{'creamcheese': 20, 'diamond': 5000, 'costlyflour': 500, 'gold': 4500, 'strawberry': 5, 'vanilla': 5, 'sugar': 4, 'water': 0, 'lemonjuice': 3, 'egg': 5, 'cream': 10}
+Recipe names:  ['Strawberry Whipped Cream\n', 'Scrumptious Caramel Topping\n', 'Secret Cheesecake Base\n', 'Display Cake - Do Not Eat\n']
+[65, 27, 620, 1000000]
+[3, 1]
+........finished processing!
+...running calculations on data...
+............................................................
+
+MY FAVORITE CHEESECAKE
+
+Strawberry Whipped Cream
+ Total: $65
+Scrumptious Caramel Topping
+ Total: $27
+Secret Cheesecake Base
+ Total: $620
+Too expensive!
+
+MILLION DOLLAR CAKES
+
+Display Cake - Do Not Eat
+ Total: $1000000
+Too expensive!
+...Program run successfully!
